@@ -1,0 +1,38 @@
+NASKAH DEMO SISTEM MINIMARKET
+=============================
+Durasi: sekitar 3-5 menit
+
+PEMBUKA
+"Ini adalah sistem minimarket untuk mengelola produk, pelanggan, transaksi penjualan, dan laporan. Hak akses dibagi untuk admin dan kasir."
+
+1. DASHBOARD
+Tunjukkan jumlah produk, pelanggan, transaksi, dan daftar transaksi terbaru.
+Jelaskan: "Dashboard memberi ringkasan aktivitas dan membantu melihat atau mencari transaksi terbaru."
+
+2. PRODUK
+Tunjukkan daftar produk dan informasi harga serta stok.
+Jelaskan: "Admin dapat mengelola data produk, termasuk harga dan stok, serta mencari produk yang dibutuhkan."
+
+3. PELANGGAN / MEMBER
+Tunjukkan daftar pelanggan dan data member.
+Jelaskan: "Data pelanggan dikelola di sini. Poin member digunakan untuk menentukan diskon pada transaksi."
+
+4. PENJUALAN
+Pilih produk dan jumlahnya, lalu pilih pelanggan member jika tersedia. Tunjukkan subtotal, diskon, pembayaran, dan kembalian sebelum menyimpan transaksi.
+Jelaskan: "Setiap 5 poin memberi diskon 1%. Diskon memakai poin sebelum transaksi; setelah transaksi member berhasil, poin bertambah 1. Sistem juga memeriksa stok dan memastikan pembayaran cukup."
+
+5. RIWAYAT DAN RETUR
+Tunjukkan riwayat transaksi, buka salah satu detail transaksi, lalu tunjukkan opsi retur.
+Jelaskan: "Transaksi dapat ditinjau kembali. Jika ada retur, stok dikembalikan dan total transaksi dihitung ulang."
+
+6. LAPORAN
+Tunjukkan filter periode, jumlah transaksi, total pendapatan, dan opsi cetak.
+Jelaskan: "Admin dapat melihat ringkasan penjualan pada periode tertentu dan mencetak laporan."
+
+PENUTUP
+"Dengan fitur-fitur ini, proses pencatatan stok, pelanggan, transaksi, dan laporan penjualan terhubung dalam satu sistem."
+
+CATATAN DEMO
+- Gunakan akun admin agar semua menu, termasuk produk dan laporan, bisa ditampilkan.
+- Untuk menunjukkan diskon, pilih member yang sudah memiliki minimal 5 poin.
+- Gunakan transaksi contoh yang aman untuk demo.
